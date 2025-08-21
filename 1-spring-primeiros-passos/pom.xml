@@ -15,7 +15,7 @@
 	<name>spring-primeiros-passos</name>
 	<description>Primeiros passos com Spring Boot</description>
 	<properties>
-		<java.version>21</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
