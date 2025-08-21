@@ -8,7 +8,7 @@
 		<version>2.5.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>dio</groupId>
+	<groupId>java</groupId>
 	<artifactId>spring-ioc-di-beans-autowired</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-ioc-di-beans-autowired</name>
