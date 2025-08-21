@@ -3,6 +3,7 @@
 
 *.idea/
 *.idea
+*.vscode/
 
 # Log file
 *.log
