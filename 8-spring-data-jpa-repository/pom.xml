@@ -11,7 +11,7 @@
 	<groupId>springboot</groupId>
 	<artifactId>8-spring-data-jpa-repository</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-data-jpa-repository</name>
+	<name>8-spring-data-jpa-repository</name>
 	<description>Spring Boot Application Data JPA - Repository</description>
 	<properties>
 		<java.version>17</java.version>
